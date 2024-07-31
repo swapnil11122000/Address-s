@@ -1,0 +1,15 @@
+D:\.NetWebProject\IpAddress\IpAddress\bin\Debug\IpAddress.exe.config
+D:\.NetWebProject\IpAddress\IpAddress\bin\Debug\IpAddress.exe
+D:\.NetWebProject\IpAddress\IpAddress\bin\Debug\IpAddress.pdb
+D:\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.csproj.AssemblyReference.cache
+D:\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.csproj.SuggestedBindingRedirects.cache
+D:\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.csproj.CoreCompileInputs.cache
+D:\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.exe
+D:\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.pdb
+D:\Swapnil\.NET\.NetWebProject\IpAddress\IpAddress\bin\Debug\IpAddress.exe.config
+D:\Swapnil\.NET\.NetWebProject\IpAddress\IpAddress\bin\Debug\IpAddress.exe
+D:\Swapnil\.NET\.NetWebProject\IpAddress\IpAddress\bin\Debug\IpAddress.pdb
+D:\Swapnil\.NET\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.csproj.AssemblyReference.cache
+D:\Swapnil\.NET\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.csproj.CoreCompileInputs.cache
+D:\Swapnil\.NET\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.exe
+D:\Swapnil\.NET\.NetWebProject\IpAddress\IpAddress\obj\Debug\IpAddress.pdb
